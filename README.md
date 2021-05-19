@@ -1,2 +1,2 @@
 # Hangman
-A programed game of Hangman
+A Hangman game
